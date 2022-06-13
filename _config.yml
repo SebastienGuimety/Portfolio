@@ -1,0 +1,26 @@
+# Site settings
+title: Portfolio Guimety Sebastien
+titre: 
+email: seb.guimety@gmail.com
+emailent: sebastien.guimety@alumni.univ-avignon.fr
+url: https://example.github.io
+description: "."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Guimety Sebastien
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/sebastien-guimety-5a0438201/
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
